@@ -18,10 +18,10 @@
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
-<a href="https://twitter.com/iam_deepak24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_deepak24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/itz-deepak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itz-deepak" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/itz_deepak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="itz_deepak" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/jerrygood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jerrygood" height="30" width="40" /></a>
+<a href="https://twitter.com/iam_deepak24" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_deepak24" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/itz-deepak" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itz-deepak" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/itz_deepak" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="itz_deepak" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/jerrygood" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jerrygood" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">Download My resume</h2>
@@ -49,19 +49,19 @@
 
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/itz-deepak/">
+  <a target="_blank"href="https://www.linkedin.com/in/itz-deepak/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/iam_deepak24">
+  <a target="_blank"href="https://twitter.com/iam_deepak24" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:deepakverma.knp2019@gmail.com?subject=Hello%20Deepak,%20From%20Github">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/itz_deepak_verma24/">
+  <a href="https://www.instagram.com/itz_deepak_verma24/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/itz-deepak">
+  <a href="https://github.com/itz-deepak" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
