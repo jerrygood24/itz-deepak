@@ -36,7 +36,7 @@
 
 
 <h2 align="center">My Github stats</h2>
-<p align="center">  
+<p>  
    <img src="https://github-readme-stats.vercel.app/api?username=itz-deepak&line_height=20&show_icons=true&theme=default)" alt="Deepak Verma Github Stats" /> 
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itz-deepak&show_icons=true&layout=compact" alt="Deepak Verma Github Stats" />
 </p>
