@@ -66,7 +66,7 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-deepak&label=Profile%20views&color=0e75b6&style=flat" alt="itz-deepak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-deepak&label=Visitors&color=0e75b6&style=flat" alt="itz-deepak" /> </p>
 
 <!--
 **itz-deepak/itz-deepak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
