@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Everything** 🤣
 
-- 👨‍💻 Vist My Portfolio [itz-deepak](https://itz-deepak.github.io/responsive-portfolio/)
+- 👨‍💻 Vist My Portfolio [itz-deepak](https://itz-deepak.github.io/)
 
 - 📫 You can reach me at: **deepakverma.knp2019@gmail.com**
 
